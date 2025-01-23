@@ -1,0 +1,38 @@
+Script started on 2024-08-29 11:50:56-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="310" LINES="63"]
+[?2004h(base) ]0;jovyan@jupyter-rs8f: ~/3240/Labs/Lab 1[01;32mjovyan@jupyter-rs8f[00m:[01;34m~/3240/Labs/Lab 1[00m$ script Lab1_Log.txt[5P./lab1Problem1gcc lab1Problem1.c -o lab1Problem1[20P./lab1Problem1gcc lab1Problem1.c -o lab1Problem1exit[K./lab1Problem1.outC[K./lab1Problem1.outgcc lab1Problem1.c -o lab1Problem1.outls[K
+[?2004lLab1_Log.txt  [0m[01;32mlab1Problem1[0m  lab1Problem1.c  [01;32mlab1Problem1.out[0m
+[?2004h(base) ]0;jovyan@jupyter-rs8f: ~/3240/Labs/Lab 1[01;32mjovyan@jupyter-rs8f[00m:[01;34m~/3240/Labs/Lab 1[00m$ lsscript Lab1_Log.txt[5P./lab1Problem1gcc lab1Problem1.c -o lab1Problem1[20P./lab1Problem1gcc lab1Problem1.c -o lab1Problem1.out
+[?2004l[?2004h(base) ]0;jovyan@jupyter-rs8f: ~/3240/Labs/Lab 1[01;32mjovyan@jupyter-rs8f[00m:[01;34m~/3240/Labs/Lab 1[00m$ gcc lab1Problem1.c -o lab1Problem1.outls[Kscript Lab1_Log.txt[5P./lab1Problem1.out
+[?2004lEnter starting temperature scale (F/C/K): F
+Enter target temperature scale (F/C/K): C
+Enter temperature value: 100
+100.00° F is equivalent to 37.78° C.
+[?2004h(base) ]0;jovyan@jupyter-rs8f: ~/3240/Labs/Lab 1[01;32mjovyan@jupyter-rs8f[00m:[01;34m~/3240/Labs/Lab 1[00m$ ./lab1Problem1.out
+[?2004lEnter starting temperature scale (F/C/K): K
+Enter target temperature scale (F/C/K): C
+Enter temperature value: 70
+70.00° K is equivalent to -203.15° C.
+[?2004h(base) ]0;jovyan@jupyter-rs8f: ~/3240/Labs/Lab 1[01;32mjovyan@jupyter-rs8f[00m:[01;34m~/3240/Labs/Lab 1[00m$ ./lab1Problem1.out
+[?2004lEnter starting temperature scale (F/C/K): K
+Enter target temperature scale (F/C/K): F
+Enter temperature value: 48
+48.00° K is equivalent to -193.15° F.
+[?2004h(base) ]0;jovyan@jupyter-rs8f: ~/3240/Labs/Lab 1[01;32mjovyan@jupyter-rs8f[00m:[01;34m~/3240/Labs/Lab 1[00m$ ./lab1Problem1.out
+[?2004lEnter starting temperature scale (F/C/K): F
+Enter target temperature scale (F/C/K): K
+Enter temperature value: 36
+36.00° F is equivalent to 273.15° K.
+[?2004h(base) ]0;jovyan@jupyter-rs8f: ~/3240/Labs/Lab 1[01;32mjovyan@jupyter-rs8f[00m:[01;34m~/3240/Labs/Lab 1[00m$ ./lab1Problem1.out
+[?2004lEnter starting temperature scale (F/C/K): C
+Enter target temperature scale (F/C/K): F
+Enter temperature value: 39
+39.00° C is equivalent to 71.00° F.
+[?2004h(base) ]0;jovyan@jupyter-rs8f: ~/3240/Labs/Lab 1[01;32mjovyan@jupyter-rs8f[00m:[01;34m~/3240/Labs/Lab 1[00m$ ./lab1Problem1.out
+[?2004lEnter starting temperature scale (F/C/K): C
+Enter target temperature scale (F/C/K): K
+Enter temperature value: 19
+19.00° C is equivalent to 292.15° K.
+[?2004h(base) ]0;jovyan@jupyter-rs8f: ~/3240/Labs/Lab 1[01;32mjovyan@jupyter-rs8f[00m:[01;34m~/3240/Labs/Lab 1[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-29 11:53:33-05:00 [COMMAND_EXIT_CODE="0"]
